@@ -10,8 +10,10 @@ Current settings options.js
 ===================================
 - All files from *inschool.visma.no* with the name of **letter.pdf** and **document.pdf** are downloaded to folder *"Downloads\Vis-ePhorte"*
 
-Internal scenario *(prior to fork is marked with strikethrough)*
+Internal scenario 
 ===================================
+*(prior to fork is marked with strikethrough)* 
+
 - Extension is set to install via Google Admin on connected accounts.
 - User logs into chrome with account.
 - Extension is installed.
