@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "DOCE_RPA",
-  "short_name": "DOCE_RPA",
-  "description": "Forked from https://github.com/unintended/download-organizer-chrome-extension/blob/master/manifest.json",
+  "name": "__MSG_appName__",
+  "short_name": "DOCE",
+  "description": "__MSG_appDesc__",
   "default_locale": "en",
   "version": "0.0.1",
   "options_page": "options.html",
