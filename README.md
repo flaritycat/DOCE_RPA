@@ -11,6 +11,12 @@ Current settings [Options.js](options.js)
 - All files from *inschool.visma.no* with the name of **letter.pdf** and **document.pdf** are downloaded to folder *"Downloads\Vis-ePhorte"*
 Enabled: True ✔️
 
+Internal requirements
+===================================
+- PC
+- Windows 10 connected to domain.
+- Chrome with a connected domain.
+
 Internal scenario 
 ===================================
 *(prior to fork is marked with strikethrough)* 
