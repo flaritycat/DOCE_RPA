@@ -15,7 +15,7 @@ Internal scenario *(prior to fork is marked with strikethrough)*
 - Extension is set to install via Google Admin on connected accounts.
 - User logs into chrome with account.
 - Extension is installed.
-- ~~The user runs an .exe Autoitscript to change the options via console in Chrome.
+- ~~The user runs an .exe Autoitscript to change the options via console in Chrome.~~
 - User downloads file. File is stored under *"Downloads\Vis-ePhorte"*
 - *"Downloads\Vis-ePhorte"* is a symlink to a network share. **Must be setup before downloading**
 - *RPA-bot* has access to the network share. Moves the files to a different internal location and starts to work.
