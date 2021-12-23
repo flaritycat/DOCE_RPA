@@ -1,8 +1,8 @@
 const RULE_FIELDS = ['mime', 'referrer', 'url', 'finalUrl', 'filename'];
 
 const DEFAULT_RULES = [
-    { "description": "VIS-ephorte-brev", "url": ".*\\inschool\\.visma\\.no", "filename": "letter\\.(epub|mobi|pdf)$", "pattern": "Vis-Ephorte/", "enabled": true},
-    { "description": "VIS-ephorte-varsel", "url": ".*\\inschool\\.visma\\.no", "filename": "document\\.(epub|mobi|pdf)$", "pattern": "Vis-Ephorte/", "enabled": true}    
+    { "description": "VIS-ephorte-brev", "url": ".*\\inschool\\.visma\\.no", "filename": "letter\\.(epub|mobi|pdf)$", "pattern": "Vis-Ephorte/", "enabled": true },
+    { "description": "VIS-ephorte-varsel", "url": ".*\\inschool\\.visma\\.no", "filename": "document\\.(epub|mobi|pdf)$", "pattern": "Vis-Ephorte/", "enabled": true }    
 ];
 
 if (localStorage.getItem('rulesets') === null) {
