@@ -1,8 +1,8 @@
 {
     "appName": {
-        "message": "RegExp Download Organizer"
+        "message": "DOCE_RPA"
     },
     "appDesc": {
-        "message": "Forget about the mess in your Downloads folder!"
+        "message": "Download files from Visma In School to specified folder. Supporting letter.pdf and document.pdf"
     }
 }
