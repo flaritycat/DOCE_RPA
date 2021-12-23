@@ -16,6 +16,8 @@ Internal requirements
 - PC
 - Windows 10 connected to domain.
 - Chrome with a connected domain.
+- Network share
+- RPA
 
 Internal scenario 
 ===================================
