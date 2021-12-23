@@ -1,4 +1,4 @@
-DOCE_RPA UNDER CONSTRUCTION
+DOCE_RPA build 0.0.1
 ===================================
 This is a fork of download-organizer-chrome-extension found at https://github.com/unintended/download-organizer-chrome-extension
 
