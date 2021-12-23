@@ -23,4 +23,5 @@ Internal scenario *(prior to fork is marked with strikethrough)*
 Symbolic Link example
 ===================================
 - mklink /d "%userprofile%\Downloads\vis-ephorte" " \\my.domain.com\internal\%username%\Vis-Ephorte" 
+
 The above line should be forced on logon.
