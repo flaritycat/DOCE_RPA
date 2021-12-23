@@ -6,10 +6,10 @@ The new intended usage is between users and RPA-bot.
 - Configuring option.js for setting the ruleset on-top of Visma In School.
 - Configuring options.html to a different view. (Badly)
 
-Current settings options.js
+Current settings [Options.js](options.js)
 ===================================
 - All files from *inschool.visma.no* with the name of **letter.pdf** and **document.pdf** are downloaded to folder *"Downloads\Vis-ePhorte"*
-Enabled: True
+Enabled: True ✔️
 
 Internal scenario 
 ===================================
