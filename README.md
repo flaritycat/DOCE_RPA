@@ -8,4 +8,4 @@ This is a fork of download-organizer-chrome-extension found at https://github.co
 
 Current settings options.js
 ===================================
-- All files from inschool.visma.no with the name of letter.pdf and document.pdf are downloaded to folder "Downloads\Vis-ePhorte"
+- All files from *inschool.visma.no* with the name of **letter.pdf** and **document.pdf** are downloaded to folder *"Downloads\Vis-ePhorte"*
