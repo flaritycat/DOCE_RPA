@@ -26,7 +26,7 @@ Internal scenario
 - Extension is set to install via [Google Admin](http://admin.google.com/) on connected accounts.
 - User logs into chrome with account, and synchronize.
 - Extension is installed.
-- ~~The user runs an .exe Autoitscript to change the options via console in Chrome.~~
+- ~~The user runs an .exe Autoitscript to change the options via console in Chrome.~~ https://github.com/flaritycat/Chromeudfs_console
 - User downloads file. File is stored under *"Downloads\Vis-ePhorte"*
 - *"Downloads\Vis-ePhorte"* is a symlink to a network share. **Must be setup before downloading, or else the folder will be created by the extension**
 - *RPA-bot* has access to the network share. Moves the files to a different internal location and starts to work.
