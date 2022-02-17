@@ -24,6 +24,7 @@ Internal scenario
 *(prior to fork is marked with strikethrough)* 
 
 - Extension is set to install via [Google Admin](http://admin.google.com/) on connected accounts.
+- Edit: You'll need to upload the extension as private for your organization. https://chrome.google.com/webstore/devconsole/register
 - User logs into chrome with account, and synchronize.
 - Extension is installed.
 - ~~The user runs an .exe Autoitscript to change the options via console in Chrome.~~ https://github.com/flaritycat/Chromeudfs_console
